@@ -2,20 +2,15 @@
 <html>
 <head>
 	<title>Devop's Dashboard</title>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-	<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css" crossorigin="anonymous">
-<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="css/pb-style.css">
-<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/chart.min.js"></script>
+	<link rel="stylesheet" href="css/bootstrap.min.css" >
+	<script src="js/bootstrap.min.js" ></script>
+	<link rel="stylesheet" href="css/bootstrap-select.min.css" >
+	<script src="js/bootstrap-select.min.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/jquery.dataTables.min.css">
+	<link rel="stylesheet" href="css/pb-style.css">
+	<script src="js/jquery.dataTables.min.js" ></script>
 </head>
 <body>
 	<?php require_once('files.php'); ?>
