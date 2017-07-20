@@ -1,0 +1,266 @@
+{
+	"application": {
+		"id": "IRN-67134",
+		"app_name": "DevOps",
+		"app_bus_area": "SM",
+		"app_arch_style": "monolithic",
+		"app_state": "stateful",
+		"12_factor_adherence": "no",
+		"app_db": "oracle",
+		"app_server": "jboss",
+		"status_dt": "04/07/2017",
+		"app_fe_language": "angular2",
+		"app_be_language": "java",
+		"app_integration": "none",
+		"app_type": "client server",
+		"app_environment": "client server",
+		"Total Score": "100",
+		"Continuos Planning": "24",
+		"Continuos Integration": "36",
+		"Continuos Deployment": "15",
+		"Continuos Monitoring": "13",
+		"Continuos Measurement": "12",
+		"devops_progress": {
+			"use_agile_methodology": {
+				"tool": "Scrum",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"write_user_story": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"use_story_point_estimation": {
+				"tool": "Fibonacci",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"agile_lifecycle_management": {
+				"tool": "Jira",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_product_backlog": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"collaborative_documentation": {
+				"tool": "Confluence",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"use_scm": {
+				"tool": "Git",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"do_pre-push_auto_review": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"run_auto_unit_test_fe": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"use_a_ci_server": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_auto_dev_builds": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_auto_integration_build": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"use_auto_static_code_analysis": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"use_artifact_repo": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_auto_regression_test": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_auto_deployment_uat": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_auto_deployment_prod": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_auto_environment_provisioning": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_app_monitoring": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_log_monitoring": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"do_auto_perforamnce_test": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_automated_reporting": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_metrics": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			},
+			"have_continuos_imp_items": {
+				"tool": "Yes",
+				"tool_score": 1,
+				"consulted": "Yes",
+				"consulted_score": 1,
+				"trained": "Yes",
+				"trained_score": 1,
+				"implemented": "Yes",
+				"implemented_score": 1
+			}
+		}
+	}
+}

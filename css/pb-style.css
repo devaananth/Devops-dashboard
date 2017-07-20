@@ -1,0 +1,102 @@
+*, *:after, *:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+}
+
+h5 {
+  font-weight: bold !important; 
+}
+
+hr {
+  border-color: #cac8bf -moz-use-text-color -moz-use-text-color !important;
+}
+.dd-metrics {
+  margin-top: 50px;
+}
+.pg-label {
+    float: left;
+    width: 100px;
+}
+
+.list-progress {
+   height: 300px;
+   overflow: auto;
+   margin: 3px;
+   padding: 3px;
+}
+
+.list-progress .done {
+  color: green;
+  padding-left: 3px;
+  font-weight: bold; 
+}
+.list-progress .not_done {
+  color: red;
+  padding-left: 3px;
+}
+
+/* Form Progress */
+.pg-progress {
+  width: 90%;
+}
+.pg-progress .circle,
+.pg-progress .bar {
+  display: inline-block;
+  background: #fff;
+  width: 40px; height: 40px;
+  border-radius: 40px;
+  border: 1px solid #d5d5da;
+}
+.pg-progress .bar {
+  position: relative;
+  width: 80px;
+  height: 6px;
+  margin: 0 -4px 36px;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+}
+.pg-progress .circle .label {
+  display: inline-block;
+  padding: 0;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 32px;
+  margin: 3px;
+  color: #b5b5ba;
+  font-size: 17px;
+}
+.pg-progress .circle .title {
+  color: #b5b5ba;
+  font-size: 13px;
+  line-height: 30px;
+  margin-left: -5px;
+}
+
+/* Done / Active */
+.pg-progress .bar.done,
+.pg-progress .circle.done {
+  background: #eee;
+}
+.pg-progress .bar.active {
+  background: linear-gradient(to right, #EEE 40%, #FFF 60%);
+}
+.pg-progress .circle.done .label {
+  color: #FFF;
+  background: #8bc435;
+  box-shadow: inset 0 0 2px rgba(0,0,0,.2);
+}
+.pg-progress .circle.done .title {
+  color: #444;
+}
+.pg-progress .circle.active .label {
+  color: #FFF;
+  background: #0c95be;
+  box-shadow: inset 0 0 2px rgba(0,0,0,.2);
+}
+.pg-progress .circle.active .title {
+  color: #0c95be;
+}
